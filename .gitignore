@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+.viminfo
+.wget-hsts
+.bash_history
+.local/
+.cache/
+.streamlit/
+
+Library/
+
 # Distribution / packaging
 .Python
 build/

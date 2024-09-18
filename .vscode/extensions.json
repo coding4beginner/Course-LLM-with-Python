@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "peterschmalfeldt.explorer-exclude",
+        "onatm.open-in-new-window",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.debugpy",
+        "charliermarsh.ruff",
+        "codezombiech.gitignore"
+    ]
+}
