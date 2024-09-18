@@ -5,15 +5,15 @@
 ### In one Terminal
 
 ```
-./01-setup-ollama.sh
+./bin/01-setup-ollama.sh
 ```
 
 ### In second terminal
 
 ```
-./02-install-model.sh
-./03-setup-python-environment.sh
-./04-run-app.sh
+./bin/02-install-model.sh
+./bin/03-setup-python-environment.sh
+./bin/04-run-app.sh
 ```
 
 ## Configure
