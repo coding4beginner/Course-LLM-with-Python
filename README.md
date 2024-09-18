@@ -1,5 +1,19 @@
 # Course - LLM with Python
 
+## Run App
+
+### In one Terminal
+```
+./01-setup-ollama.sh
+```
+
+### In second terminal
+
+```
+./02-install-model.sh
+./03-setup-python-environment.sh
+./04-run-app.sh
+````
 
 ## Configure
 
