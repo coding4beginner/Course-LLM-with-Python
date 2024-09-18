@@ -3,6 +3,7 @@
 ## Run App
 
 ### In one Terminal
+
 ```
 ./01-setup-ollama.sh
 ```
@@ -13,13 +14,20 @@
 ./02-install-model.sh
 ./03-setup-python-environment.sh
 ./04-run-app.sh
-````
+```
 
 ## Configure
 
-### Switch to Codespaces
-
-[](doc/img/01_codespaces.png)
+| What to do                     | Screenshot                                                                   |
+| ------------------------------ | ---------------------------------------------------------------------------- |
+| Create new Codespace           | <img src="doc/img/01-codespaces.png" style="width:600px;"/>                  |
+| Install extensions             | <img src="doc/img/02-install-extensions.png" style="width:600px;"/>          |
+| Close all extension windows    | <img src="doc/img/03-close-all-extension-windows.png" style="width:600px;"/> |
+| Select README to show commands | <img src="doc/img/04-readme.png" style="width:600px;"/>                      |
+| Run commands                   | <img src="doc/img/05-run-commands.png" style="width:600px;"/>   
+| Commands                   | <img src="doc/img/05-commands.png" style="width:600px;"/>   
+| Open app in Browser            | <img src="doc/img/06-open-app-in-browser.png" style="width:600px;"/>         |
+| Run Streamlit                  | <img src="doc/img/07-streamlit-app.png" style="width:600px;"/>               |
 
 ### Install Ollama
 
@@ -45,7 +53,7 @@ ollama run phi
 python -m venv .venv/python
 . .venv/python/bin/activate
 pip install --upgrade pip
-pip install -r requirements.txt 
+pip install -r requirements.txt
 ```
 
 ### Run App
@@ -53,3 +61,4 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+````

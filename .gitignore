@@ -9,9 +9,12 @@ __pycache__/
 .viminfo
 .wget-hsts
 .bash_history
+
+.config/
 .local/
 .cache/
 .streamlit/
+.rustup/
 
 Library/
 
