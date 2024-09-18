@@ -18,6 +18,10 @@ __pycache__/
 
 Library/
 
+.set_env.sh
+.envrc
+
+
 # Distribution / packaging
 .Python
 build/
