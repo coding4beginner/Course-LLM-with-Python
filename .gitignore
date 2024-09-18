@@ -18,7 +18,7 @@ __pycache__/
 
 Library/
 
-.set_env.sh
+set_env.sh
 .envrc
 
 
